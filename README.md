@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amol Dudhane</h1>
-<h3 align="center">A passionate passionate Devops Engineer from India.</h3>
+<h3 align="center">A passionate Devops Engineer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
 - 🔭 I’m currently working on **AWS, Terraform**
